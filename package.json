@@ -1,0 +1,14 @@
+{
+  "name": "letitcurl-clock",
+  "version": "1.0.0",
+  "description": "my clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "roro",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
